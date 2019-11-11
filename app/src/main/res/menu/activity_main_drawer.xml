@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_ana_sayfa"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Ana Sayfa" />
+        <item
+            android:id="@+id/nav_giris_yap"
+            android:icon="@drawable/ic_giris_yap_black_24dp"
+            android:title="Giriş Yap" />
+
+
+
+        <item
+            android:id="@+id/nav_profil"
+            android:icon="@drawable/ic_profile_black_24dp"
+            android:title="Profil"
+            android:visible="false"/>
+        <item
+            android:id="@+id/nav_dergi"
+            android:icon="@drawable/ic_magazine_black_24dp"
+            android:title="Dergi"
+            android:visible="false"/>
+        <item
+            android:id="@+id/nav_makale"
+            android:icon="@drawable/ic_makale_black_24dp"
+            android:title="Makale"
+            android:visible="false"/>
+        <item
+            android:id="@+id/nav_makale_yayinla"
+            android:icon="@drawable/ic_makale_yayinla_black_24dp"
+            android:title="Makale Yayınla"
+            android:visible="false"/>
+        <item
+            android:id="@+id/nav_yazar"
+            android:icon="@drawable/ic_yazar_black_24dp"
+            android:title="Yazarlar"
+            android:visible="false"/>
+        <item
+            android:id="@+id/nav_hakem"
+            android:icon="@drawable/ic_hakem_black_24dp"
+            android:title="Hakemler"
+            android:visible="false"/>
+        <item
+            android:id="@+id/nav_editor"
+            android:icon="@drawable/ic_editor_black_24dp"
+            android:title="Editör"
+            android:visible="false"/>
+
+        <item
+            android:id="@+id/nav_cikis_yap"
+            android:icon="@drawable/ic_cikis_yap_black_24dp"
+            android:title="Çıkış Yap"
+            android:visible="false"/>
+
+    </group>
+
+
+</menu>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<array name="userType">
+    <item>Yazar</item>
+    <item>Hakem</item>
+</array>
+</resources>

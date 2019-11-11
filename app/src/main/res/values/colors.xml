@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorAdress">#2F7092</color>
+    <color name="colorFollowers">#0D5D98</color>
+    <color name="colorHeadings">#3797CF</color>
+    <color name="colorSolidCircle">#80FFFFFF</color>
+    <color name="colorCircleBorder">#cf9b9b</color>
+    <color name="ColorGrandEnd">#67EFC8</color>
+    <color name="colorGrandStart">#63C9FF</color>
+    <color name="colorFollowers8">#65DCE5</color>
+    <color name="colorFollowing">#49BEFF</color>
+    <color name="colorGrey">#e5e5e5</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorFume">#cecaca</color>
+    <color name="grayLight">#fafafa</color>
+    <color name="startBlue">#09c6df</color>
+    <color name="endBlue">#0bcce6</color>
+</resources>
